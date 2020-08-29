@@ -210,6 +210,18 @@ a {
 }
 
 @media screen and (max-width: 600px) {
+  #hero {
+    padding: 0 2rem;
+  }
+
+  #projects h2 {
+    padding: 0 2rem;
+  }
+
+  #projects h2::after {
+    display: none;
+  }
+
   .footer-list {
     flex-direction: column;
     margin-bottom: 8rem;
