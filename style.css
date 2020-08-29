@@ -117,9 +117,6 @@ a {
   margin: 2rem auto;
 }
 
-.grid-item {
-}
-
 .grid-item h3 {
   background-color: var(--main-gray);
   padding: 1.5rem 2rem;
@@ -196,16 +193,10 @@ a {
   #footer {
     height: 70rem;
   }
-  .footer-list {
-    /* flex-direction: column; */
-  }
 
   .footer-list li {
     margin: 0 1rem;
     font-size: 2.2rem;
-  }
-
-  .footer-list i {
   }
 }
 
@@ -230,9 +221,5 @@ a {
   .footer-list li {
     margin: 1rem 1rem;
     font-size: 1.6rem;
-  }
-
-  .copyright {
-    /* margin-top: 4rem; */
   }
 }
