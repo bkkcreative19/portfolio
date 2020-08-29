@@ -47,8 +47,9 @@ a {
 .nav-item {
   font-size: 2rem;
   color: var(--main-white);
-  padding: 2.5rem;
+  padding: 0 2.5rem;
   margin: auto 0;
+  height: 100%;
 }
 
 .nav-item:hover {
