@@ -209,6 +209,7 @@ a {
   #hero h1 {
     font-size: 5rem;
     margin: 0 auto;
+    color: red;
   }
   #hero p {
     font-size: 2rem;
