@@ -202,7 +202,8 @@ a {
 
 @media screen and (max-width: 600px) {
   #hero {
-    padding: 0 2rem;
+    padding: 0 1rem;
+    text-align: center;
   }
 
   #projects h2 {
