@@ -206,6 +206,13 @@ a {
     text-align: center;
   }
 
+  #hero h1 {
+    font-size: 5rem;
+  }
+  #hero p {
+    font-size: 2rem;
+  }
+
   #projects h2 {
     padding: 0 2rem;
   }
